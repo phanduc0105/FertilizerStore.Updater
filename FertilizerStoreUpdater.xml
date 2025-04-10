@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
 	<version>1.0.0.0</version>
-	<url>https://github.com/phanduc0105/FertilizerStore.Updater/releases/download/v1.0.0.1/FertilizerStore.Updater.zip</url>
-	<changelog>https://github.com/phanduc0105/FertilizerStore.Updater/releases/download/v1.0.0.1/FertilizerStore.Updater.zip</changelog>
+	<url>https://github.com/phanduc0105/FertilizerStore.Updater/releases/download/v1.0.0.0/FertilizerStore.Updater.zip</url>
+	<changelog>https://github.com/phanduc0105/FertilizerStore.Updater/releases/download/v1.0.0.0/FertilizerStore.Updater.zip</changelog>
 	<mandatory>true</mandatory>
 </item>
